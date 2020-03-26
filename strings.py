@@ -22,3 +22,8 @@ print 'Hi, \t how are you?'
 # \ making into one single statement
 print "hi  \
 how are you?"
+
+print('\\') #\
+print("\'") #'
+print("\"") #"
+print("\a") #bellrings
